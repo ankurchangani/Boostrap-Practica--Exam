@@ -1,0 +1,10 @@
+.modal-body{
+    transition: top 0.5s cubic-bezier(0.46, 0.03, 0.52, 0.96), box-shadow 0.3s ease-out;
+}
+.py-100{
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+a{
+    text-decoration: none;
+}
